@@ -1,0 +1,1 @@
+This project was completed as part of my internship at Main Flow Services and Technologies. The task involved developing a website with dropdown menus and ensuring smooth navigation between pages. This project allowed me to enhance my web development skills and create a user-friendly interface.
